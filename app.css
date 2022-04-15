@@ -1,0 +1,38 @@
+.index-buttons{
+    float: right;
+}
+
+.header{
+    display: inline;
+}
+
+.product{
+    width: 200px;
+    height: 150px;
+    margin:10px;
+}
+
+.product-info p{
+    margin: 0;
+}
+#delete-product-btn-all{
+    display:block;
+}
+#delete-product-btn{
+    display:none;
+}
+button{
+    width:150px;
+   
+}
+
+body{
+    padding: 10px;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
